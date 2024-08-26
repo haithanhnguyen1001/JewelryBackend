@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "store",
+    "host": "localhost",
+    "dialect": "mysql",
+    "timezone": "+07:00",
+    "logging": false
+  },
+  "test": {
+    "username": "root",
+    "password": "rWo8GGACeSXn5jl2dKds",
+    "database": "railway",
+    "host": "containers-us-west-29.railway.app",
+    "dialect": "mysql",
+    "timezone": "+07:00"
+  },
+  "production": {
+    "username": "root",
+    "password": "ntien281",
+    "database": "test_db",
+    "host": "localhost",
+    "dialect": "mysql",
+    "timezone": "+07:00"
+  }
+}
